@@ -132,6 +132,15 @@ main {
     padding: 20px;
 }
 
+.about-immagine img {
+    max-width: 80%;
+    height: auto;
+    border: 2px solid;
+    border-image: linear-gradient(to bottom, #1c1c1c, #2aa405, #1c1c1c) 1;
+    border-radius: 3px;
+    box-shadow: 0 4px 8px rgba(27, 91, 27, 0.341);
+}
+
 .card-container {
     display: flex;
     flex-wrap: wrap;
