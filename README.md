@@ -27,18 +27,6 @@ Questo progetto raccoglie i miei lavori, le competenze tecniche e il mio percors
 
 ---
 
-## 📸 Anteprima
-
-> Inserisci qui uno screenshot della homepage.
-
-```html
-<p align="center">
-  <img src="assets/home.png" width="900" alt="Anteprima Portfolio">
-</p>
-```
-
----
-
 ## 🚀 Avvio del progetto
 
 Clona il repository:
@@ -69,7 +57,7 @@ In alternativa, apri semplicemente il file `index.html` nel browser.
 Il portfolio include alcuni dei progetti che ho realizzato durante il mio percorso di apprendimento e crescita nello sviluppo web, tra cui:
 
 * 🌿 **Floréa** – E-commerce botanico sviluppato con Django, Tailwind CSS e Stripe.
-* 📸 **Sito Portfolio per Fotografo** – Sito vetrina responsive progettato per valorizzare servizi fotografici e portfolio professionale.
+* 📸 **Sito Portfolio per Fotografo** – Sito vetrina responsive progettato per valorizzare servizi fotografici e portfolio professionale. (In lavorazione, link non funzionante)
 
 Nuovi progetti verranno aggiunti nel tempo.
 
@@ -105,4 +93,4 @@ Il portfolio viene migliorato costantemente con:
 
 🌐 Portfolio: https://antonydev03.github.io/portfolio/
 
-💼 LinkedIn: *(Aggiungi il link al tuo profilo)*
+💼 LinkedIn: https://www.linkedin.com/in/angelantonio-de-virgilio-743b96275/
